@@ -4,6 +4,7 @@ Source code of the paper "Communication-Efficient Conditional Privacy-Preserving
 
 * Install the library “Charm-crypto 0.5” (see [GitHub](https://github.com/JHUISI/charm));
 * Import the project “Authentication Efficiency Analysis” into PyCharm.
+* Run the Python file through the command "python test_benchmark_****.py".
 
 # Conduct the experiments of network performance analysis
 
