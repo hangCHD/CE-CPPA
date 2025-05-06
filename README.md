@@ -1,0 +1,3 @@
+Source code of the paper "Communication-Efficient Conditional Privacy-Preserving Authentication Based on Ring Signature in VANETs"
+To conduct the experiments of authentication efficiency analysis, please install the library “Charm-crypto 0.5” (see https://github.com/JHUISI/charm), and import the project “Authentication Efficiency Analysis” into Pycharm.
+To conduct the experiments of network performance analysis, please download and install the JDK toolkit, configure the different densities and speeds in the files (vms_get_scen, ns.tcl, and analysis.awk), and run the shell script by the command "bash test.sh".
