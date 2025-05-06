@@ -1,0 +1,10 @@
+java -jar VanetMobiSim.jar vms_get_scen.xml; ns ns.tcl; gawk -f analysis.awk ns_trace.tr > output.txt
+java -jar VanetMobiSim.jar vms_get_scen.xml; ns ns.tcl; gawk -f analysis.awk ns_trace.tr >> output.txt
+java -jar VanetMobiSim.jar vms_get_scen.xml; ns ns.tcl; gawk -f analysis.awk ns_trace.tr >> output.txt
+java -jar VanetMobiSim.jar vms_get_scen.xml; ns ns.tcl; gawk -f analysis.awk ns_trace.tr >> output.txt
+java -jar VanetMobiSim.jar vms_get_scen.xml; ns ns.tcl; gawk -f analysis.awk ns_trace.tr >> output.txt
+java -jar VanetMobiSim.jar vms_get_scen.xml; ns ns.tcl; gawk -f analysis.awk ns_trace.tr >> output.txt
+java -jar VanetMobiSim.jar vms_get_scen.xml; ns ns.tcl; gawk -f analysis.awk ns_trace.tr >> output.txt
+java -jar VanetMobiSim.jar vms_get_scen.xml; ns ns.tcl; gawk -f analysis.awk ns_trace.tr >> output.txt
+java -jar VanetMobiSim.jar vms_get_scen.xml; ns ns.tcl; gawk -f analysis.awk ns_trace.tr >> output.txt
+java -jar VanetMobiSim.jar vms_get_scen.xml; ns ns.tcl; gawk -f analysis.awk ns_trace.tr >> output.txt
